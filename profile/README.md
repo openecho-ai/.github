@@ -19,14 +19,10 @@ A bonded SLA has three properties. Anything missing one is something else.
 
 An ordinary SLA has none of the three. It promises credits, and someone has to chase them.
 
-```mermaid
-flowchart LR
-    A["Seller stakes<br/>a bond"] --> B["Buyer commits<br/>volume"]
-    B --> C["Both sides log<br/>every request"]
-    C --> D{"Verifier<br/>settles"}
-    D -->|Claim held| E["Bond returns<br/>to the seller"]
-    D -->|Claim missed| F["Buyer is paid<br/>automatically"]
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openecho-ai/.github/main/profile/assets/flow-dark.svg">
+  <img src="https://raw.githubusercontent.com/openecho-ai/.github/main/profile/assets/flow-light.svg" width="100%" alt="Flow diagram. The seller stakes a bond. The buyer commits volume. Both sides log every request. The verifier settles. If the claim held, the bond returns to the seller. If the claim was missed, the buyer is paid automatically.">
+</picture>
 
 Sellers stop paying to be seen and start putting money behind being right.
 
@@ -49,9 +45,7 @@ The missing piece is a guarantee an agent can verify and enforce. That is what a
 
 Enterprises are spending more on AI every quarter, losing more when it fails, and recovering a sliver through service credits someone has to chase.
 
-## What it looks like in practice
-
-These are illustrative scenarios, not customer stories.
+## Use cases
 
 **A challenger wins the account it could never get a meeting for.**
 An inference provider is as fast as the incumbent and has no way to prove it. It publishes a bonded SLA: a stated speed on a named model, with collateral behind it. The buyer's router sees an enforceable guarantee where the incumbent offers a brochure, and shifts volume. Every clean day, the bond stays whole.

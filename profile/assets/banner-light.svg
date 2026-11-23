@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="t">OpenEcho</title>
+  <desc id="d">OpenEcho. The claim is the ad. The bond is the proof. Bonded SLAs for agentic commerce.</desc>
+  <rect width="1280" height="360" rx="16" fill="#fcfcfb"/>
+  <circle cx="1060" cy="180" r="36" fill="none" stroke="#2a78d6" stroke-width="3" opacity="1.00"/>
+  <circle cx="1060" cy="180" r="72" fill="none" stroke="#2a78d6" stroke-width="3" opacity="0.81"/>
+  <circle cx="1060" cy="180" r="108" fill="none" stroke="#2a78d6" stroke-width="3" opacity="0.62"/>
+  <circle cx="1060" cy="180" r="144" fill="none" stroke="#2a78d6" stroke-width="3" opacity="0.43"/>
+  <circle cx="1060" cy="180" r="180" fill="none" stroke="#2a78d6" stroke-width="3" opacity="0.24"/>
+  <circle cx="1060" cy="180" r="9" fill="#2a78d6"/>
+  <text x="88" y="158" font-size="92" font-weight="700" letter-spacing="-2" fill="#0b0b0b">OpenEcho</text>
+  <text x="92" y="218" font-size="31" font-weight="500" fill="#0b0b0b">The claim is the ad. The bond is the proof.</text>
+  <text x="92" y="266" font-size="21" fill="#52514e">Bonded SLAs for agentic commerce</text>
+</svg>

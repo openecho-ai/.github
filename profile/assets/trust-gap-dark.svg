@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 262" width="760" height="262" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="t">Agents are ready to buy. Trust holds them back.</title>
+  <desc id="d">Bar chart of procurement leaders in a November 2026 Coupa survey. 72 percent would let AI agents handle transactions. Under 1 percent do today.</desc>
+  <rect width="760" height="262" rx="8" fill="#1a1a19"/>
+  <text x="40" y="40" font-size="18" font-weight="600" fill="#f0efec">Agents are ready to buy. Trust holds them back.</text>
+  <text x="40" y="64" font-size="13" fill="#c3c2b7">Share of procurement leaders. Source: Coupa, State of Agentic Procurement, November 2026.</text>
+  <text x="40" y="106" font-size="14" fill="#f0efec">Would let AI agents handle transactions</text>
+  <rect x="40" y="118" width="600" height="30" rx="4" fill="#262624"/>
+  <path d="M40,118 h428 a4,4 0 0 1 4,4 v22 a4,4 0 0 1 -4,4 h-428 z" fill="#3987e5"/>
+  <text x="484" y="139" font-size="16" font-weight="600" fill="#f0efec">72%</text>
+  <text x="40" y="190" font-size="14" fill="#f0efec">Do today</text>
+  <rect x="40" y="202" width="600" height="30" rx="4" fill="#262624"/>
+  <path d="M40,202 h2 a4,4 0 0 1 4,4 v22 a4,4 0 0 1 -4,4 h-2 z" fill="#3987e5"/>
+  <text x="58" y="223" font-size="16" font-weight="600" fill="#f0efec">under 1%</text>
+</svg>

@@ -7,6 +7,8 @@ For a century, commerce ran on persuasion. Whoever bought the most attention won
 
 OpenEcho is building the trust layer for what comes next: an economy where every commercial claim is staked, machine-verifiable, and settled automatically.
 
+**Want in early?** We are working with a small group of design partners: teams buying AI inference at scale, and providers ready to stake their performance. Write to [hello@openecho.ai](mailto:hello@openecho.ai).
+
 ## What we build
 
 **The bonded SLA: the SLA that pays itself.** A seller stakes money behind a measurable claim. When production data shows the claim held, the bond comes back. When it shows a miss, the buyer is paid automatically. No tickets, no credit paperwork, no persuasion.
@@ -32,16 +34,16 @@ Agents are ready to buy. Trust is what holds them back.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openecho-ai/.github/main/profile/assets/trust-gap-dark.svg">
-  <img src="https://raw.githubusercontent.com/openecho-ai/.github/main/profile/assets/trust-gap-light.svg" width="760" alt="Bar chart of procurement leaders in a November 2026 Coupa survey. 72 percent would let AI agents handle transactions. Under 1 percent do today.">
+  <img src="https://raw.githubusercontent.com/openecho-ai/.github/main/profile/assets/trust-gap-light.svg" width="100%" alt="Bar chart of procurement leaders in a November 2026 Coupa survey. 72 percent would let AI agents handle transactions. Under 1 percent do today.">
 </picture>
 
 The missing piece is a guarantee an agent can verify and enforce. That is what a bonded SLA is.
 
 | | | Source |
 |---|---|---|
-| **72%** | of procurement leaders would let AI agents handle transactions. Fewer than 1% do. | Coupa, State of Agentic Procurement, November 2026 |
-| **$600 billion** | lost to downtime each year by the Global 2000, about $900,000 per hour per company | Splunk, The Hidden Costs of Downtime, 2026 |
-| **$33B to $177B** | growth in enterprise AI spend in a single year | Menlo Ventures, The State of Enterprise AI, 2026 |
+| **72%** | of executives surveyed would let AI agents create or update transactions. Fewer than 1% say an agent does that today. | [Coupa, State of Agentic Procurement, November 2026](https://www.coupa.com/?p=77460) |
+| **$600 billion** | lost to downtime each year by the Global 2000, about $900,000 per hour per company | [Splunk, The Hidden Costs of Downtime, 2026](https://www.splunk.com/en_us/campaigns/the-hidden-costs-of-downtime.html) |
+| **$33B to $177B** | growth in enterprise AI deployment spend in a single year, at an annualized rate | [Menlo Ventures, 2026: The State of Enterprise AI](https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/) |
 
 Enterprises are spending more on AI every quarter, losing more when it fails, and recovering a sliver through service credits someone has to chase.
 
@@ -78,7 +80,7 @@ The payout is zero inside an agreed deadband, then rises in a straight line to a
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openecho-ai/.github/main/profile/assets/payout-curve-dark.svg">
-  <img src="https://raw.githubusercontent.com/openecho-ai/.github/main/profile/assets/payout-curve-light.svg" width="760" alt="Line chart of bond payout per epoch by shortfall for an example offer. No payout inside the 2% deadband. Past it the payout rises in a straight line: 5% missed pays $6.12, 10% pays $16.33, and 20% pays $36.73, on the way to a $200 daily cap at total failure.">
+  <img src="https://raw.githubusercontent.com/openecho-ai/.github/main/profile/assets/payout-curve-light.svg" width="100%" alt="Line chart of bond payout per epoch by shortfall for an example offer. No payout inside the 2% deadband. Past it the payout rises in a straight line: 5% missed pays $6.12, 10% pays $16.33, and 20% pays $36.73, on the way to a $200 daily cap at total failure.">
 </picture>
 
 ## Why sellers say yes
@@ -99,8 +101,16 @@ Open schemas, a settlement lifecycle, and a reference verifier anyone can run. A
 - **Challenger sellers:** Stake the claim, win the volume. Let performance do the selling.
 - **Agent and gateway builders:** Give your agents guarantees they can enforce.
 
+## Who is behind it
+
+Founded by [Sidney Scott](https://github.com/SidScott1410).
+
 ## Where we are going
 
 - **Now:** bonded inference, the first bonded SLA, settled automatically.
 - **Next:** signed receipts, escrow and surety partners, one-step adoption inside the gateways teams already use.
 - **Horizon:** every measurable claim in commerce carries a bond, and advertising becomes accountability.
+
+## Get in touch
+
+[hello@openecho.ai](mailto:hello@openecho.ai)
